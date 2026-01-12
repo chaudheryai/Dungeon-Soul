@@ -1,0 +1,16 @@
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+game_exec
+*.out
+enemyTester
+libenemyTest.a
+enemyTileTester
+libenemyTileTest.a
+lib/
+testing
+libgame_lib.a
+enemyDropTester
+tileTester
+gtesting
